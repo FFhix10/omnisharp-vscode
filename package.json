@@ -127,7 +127,7 @@
     "copyfiles": "^2.3.0",
     "cross-env": "5.2.0",
     "del": "3.0.0",
-    "find-versions": "3.0.0",
+    "find-versions": "4.0.0",
     "get-port": "4.1.0",
     "glob-promise": "3.4.0",
     "gulp": "4.0.0",
