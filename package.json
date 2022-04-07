@@ -115,7 +115,7 @@
     "@types/unzipper": "^0.9.1",
     "@types/vscode": "1.33.0",
     "@types/yauzl": "2.9.1",
-    "archiver": "3.0.0",
+    "archiver": "4.0.2",
     "async-child-process": "1.1.1",
     "async-shelljs": "0.1.2",
     "chai": "4.2.0",
